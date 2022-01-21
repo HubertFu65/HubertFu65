@@ -3,7 +3,10 @@
 ![A student of The University of Hong Kong, major in computer engineering.](https://github.com/HubertFu65/HubertFu65/blob/main/banner.png)
 
 
-Skills: Python / C++ / C / HTML / Java 
+##Skills: 
+- Python    - C++
+- C         - HTML
+- Java      - Git
 
 - 🏫 I'm a student of The University of Hong Kong.
 - 🌱 I’m currently learning JavaSript 
