@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Hubert.
 #### A student of The University of Hong Kong, major in computer engineering.
-![A student of The University of Hong Kong, major in computer engineering.]()
+![A student of The University of Hong Kong, major in computer engineering.](https://github.com/HubertFu65/HubertFu65/blob/main/banner.png)
 
 
 Skills: Python / C++ / C / HTML / Java 
