@@ -16,7 +16,7 @@ I am a student of The University of Hong Kong, major in computer engineering. I�
 
 
 ## More about me
-- 🏫 I'm a student of The University of Hong Kong.
+- 🏫 I’m a student of The University of Hong Kong.
 - 🌱 I’m currently learning frontend coding. 
 - 📫 How to reach me: hubertfu12@gmail.com 
 
